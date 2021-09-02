@@ -4,7 +4,7 @@ In this notebook, I have created Face of Anime Characters using Generative Adver
 > Generative modeling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset. - [Source](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/)
 
 From Random noise to Anime faces.
-Random Noise          |  Anime Faces
+| Random Noise          |  Anime Faces |
 :-------------------------:|:-------------------------:
 <img src="https://github.com/anuranjanpandey/Anime-GAN/blob/master/generated/generated-images-0000.png" width="350" height="350"/>  |  <img src="https://github.com/anuranjanpandey/Anime-GAN/blob/master/generated/generated-images-0025.png" width="350" height="350"/>
 
